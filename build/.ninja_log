@@ -1,0 +1,4 @@
+# ninja log v6
+7	2265	7631903860546413	CMakeFiles/sentiment.dir/src/DSString.cpp.obj	9bed144f4a70497f
+3	2309	7631903860516401	CMakeFiles/sentiment.dir/src/main.cpp.obj	9966c02456e893e0
+14	2710	7631903860617574	CMakeFiles/sentiment.dir/src/SentimentClassifier.cpp.obj	12a5e8488d4e58c8

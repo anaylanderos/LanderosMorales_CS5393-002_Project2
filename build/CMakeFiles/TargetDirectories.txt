@@ -1,0 +1,3 @@
+C:/Users/anayl/OneDrive/Desktop/Projects/LanderosMorales_CS5393-002_Project2/build/CMakeFiles/sentiment.dir
+C:/Users/anayl/OneDrive/Desktop/Projects/LanderosMorales_CS5393-002_Project2/build/CMakeFiles/edit_cache.dir
+C:/Users/anayl/OneDrive/Desktop/Projects/LanderosMorales_CS5393-002_Project2/build/CMakeFiles/rebuild_cache.dir
